@@ -1,0 +1,10 @@
+section.area1 {visibility: hidden; position: absolute ; background-color: #ffcc99 ; width: 600px ; font-family: sans-serif ; }
+
+section.area2 {visibility: hidden; position: absolute ; background-color: #ffff80 ; width: 600px ; font-family: sans-serif ;  }
+
+section.area3 {visibility: hidden; position: absolute ; background-color: #9ab3e5 ; width: 600px ; font-family: sans-serif ;  }
+
+section.area4 {visibility: hidden; position: absolute ; background-color: #80ccff ; width: 600px ; font-family: sans-serif ;  }
+
+section.area5 {visibility: hidden; position: absolute ; background-color: #4d0000 ; color: white ; width: 600px ; font-family: sans-serif ;  }
+
